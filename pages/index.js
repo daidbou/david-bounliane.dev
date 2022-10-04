@@ -3,7 +3,6 @@ import Navbar from '../components/Navbar.jsx'
 import Main from '../components/Main.jsx'
 import About from '../components/About.jsx'
 import Skills from '../components/Skills.jsx'
-import Contact from '../components/Contact.jsx'
 import Footer from '../components/Footer.jsx'
 
 export default function Home() {
@@ -19,7 +18,6 @@ export default function Home() {
       <Main />
       <About />
       <Skills />
-      <Contact/>
       <Footer />
     </div>
 

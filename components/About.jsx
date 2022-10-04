@@ -3,8 +3,8 @@ import Spline from '@splinetool/react-spline';
 // @refresh reset
 export const About = () => {
   return (
-    <div id="About" className='z-10 w-full h-screen p-10'>
-        <div className="max-w-[1240px] mx-auto flex lg:flex-nowrap justify-center h-full">
+    <div id="About" className='z-10 w-full sm:h-screen p-10'>
+        <div className="max-w-[1240px] mx-auto flex flex-wrap justify-center h-full">
                 <div className='basis-full lg:basis-1/2'>
                     <p className='uppercase text-sm tracking-widest text-slate-400'>About</p>
                     <h2 className='py-4'>Who I Am</h2>

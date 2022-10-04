@@ -31,27 +31,30 @@ export const Footer = () => {
                 </div>
                 <ul className='flex items-center justify-between'>
                         <a href="/#Home">
-                            <li className='py-2 uppercase'>
+                            <li className=' uppercase text-slate-400 py-2 hover:text-white'>
                                 Home
                             </li>
                         </a>
                         <a href="/#About">
-                            <li className='py-2 uppercase'>
+                            <li className=' uppercase text-slate-400 py-2 hover:text-white'>
                                 About
                             </li>
                         </a>
                         <a href="/#Skills">
-                            <li className='py-2 uppercase'>
-                                About
+                            <li className='uppercase text-slate-400 py-2 hover:text-white'>
+                                Skills
                             </li>
                         </a>
-                        <a href="/#Contact">
-                            <li className='py-2 uppercase'>
-                                About
+                        <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBXHfxRpMdFmzMlggTkcMGhflwlGRFbVhrJmnWqlPrlDzCXLLBgfHzJbqMWvlkPPNnqSB">
+                            <li className=' uppercase text-slate-400 py-2 hover:text-white'>
+                                Contact
                             </li>
                         </a>
                    </ul>
                    <div className='text-center p-4'>
+                        <a href='https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBXHfxRpMdFmzMlggTkcMGhflwlGRFbVhrJmnWqlPrlDzCXLLBgfHzJbqMWvlkPPNnqSB'>
+                            <p className='uppercase text-sm tracking-widest text-slate-400 py-2 hover:text-white'>david.bounliane@utt.fr</p>
+                        </a>
                         <p className='uppercase text-sm tracking-widest text-slate-400'>Design by - <span className=' text-blue-400'>david-bounliane</span></p>
                    </div>
         </div>

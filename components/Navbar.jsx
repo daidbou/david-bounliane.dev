@@ -51,9 +51,9 @@ export const Navbar = () => {
                     <Link href='/#Skills'>
                         <li id='skills2' className="py-4 text-sm transition ease-in-out hover:scale-105 hover:translate-x-3 duration-350">Skills</li>
                     </Link>
-                    <Link href='/#Contact'>
+                    <a href='/https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBXHfxRpMdFmzMlggTkcMGhflwlGRFbVhrJmnWqlPrlDzCXLLBgfHzJbqMWvlkPPNnqSB'>
                         <li id='contact2' className="py-4 text-sm transition ease-in-out hover:scale-105 hover:translate-x-3 duration-350">Contact</li>
-                    </Link>
+                    </a>
                 </ul>
                 <div className='pt-[15vh] md:pt-[55vh]'>
                     <p className='uppercase tracking-widest text-slate-400 pb-2'>let's connect</p>
@@ -68,12 +68,12 @@ export const Navbar = () => {
                                 <FaGithub />
                             </div>
                         </a>
-                        <a href='#' target="_blank" rel="noopener noreferrer">
+                        <a href='https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBXHfxRpMdFmzMlggTkcMGhflwlGRFbVhrJmnWqlPrlDzCXLLBgfHzJbqMWvlkPPNnqSB' target="_blank" rel="noopener noreferrer">
                             <div className='rounded-full bg-slate-600 p-3 cursor-pointer transition ease-in-out hover:scale-105 hover:shadow-sm hover:shadow-black duration-300'>
                                 <AiOutlineMail />
                             </div>
                         </a>
-                        <a href='#' target="_blank" rel="noopener noreferrer">
+                        <a href='https://drive.google.com/file/d/1SDZTxpTkOhIJCxUHZJHpe_Gya8dVUySG/view?usp=sharing' target="_blank" rel="noopener noreferrer">
                             <div className='rounded-full bg-slate-600 p-3 cursor-pointer transition ease-in-out hover:scale-105 hover:shadow-sm hover:shadow-black duration-300'>
                                 <BsFillPersonLinesFill />
                             </div>
