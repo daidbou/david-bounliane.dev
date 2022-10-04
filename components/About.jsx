@@ -2,6 +2,7 @@ import React from 'react'
 import Spline from '@splinetool/react-spline';
 // @refresh reset
 export const About = () => {
+
   return (
     <div id="About" className='z-10 w-full sm:h-screen p-10'>
         <div className="max-w-[1240px] mx-auto flex flex-wrap justify-center h-full">
@@ -16,10 +17,10 @@ export const About = () => {
                       A 6 months internship would be for me the opportunity to learn how to work in a team, master one or more frameworks like ReactJS, AngularJS or Laravel and especially gain experience and maturity in this domain. I am eager to learn web development.
                       <br/>
                       <br/>
-                      if you are looking for a intern in web development, feel free to contact me on Linkedin : <strong className=' text-blue-400'>linkedin.com/in/david-bounliane/</strong> or at my email address : <strong className=' text-blue-400'>david.bounliane@gmail.com</strong>.
-                    </p>
+                      if you are looking for a intern in web development, feel free to contact me on Linkedin : </p>
+                      <a href='' ><p id='copy' className=' text-blue-400'>linkedin.com/in/david-bounliane/</p></a>
+                      <p className='text-md text-slate-300'>or at my email address : </p><a href=''><p id='copy1' className=' text-blue-400'>david.bounliane@gmail.com</p></a>
 
-                    
                 </div>
                 <div className='relative p-10 basis-full h-1/2 lg:basis-1/2'>
                     <div className='absolute inset-0 '>
