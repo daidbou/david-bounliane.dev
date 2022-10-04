@@ -5,7 +5,7 @@ import {BsFillPersonLinesFill} from 'react-icons/bs'
 
 export const Footer = () => {
   return (
-    <div className=' sticky w-full h-[30vh] p-10 mt-20 shadow-xl bg-black/40'>
+    <div className=' w-full h-[40vh] p-10 mt-20 shadow-xl bg-black/40'>
         <div className='max-w-[330px] h-full mx-auto justify-center align-middle items-center'>
                 <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
                     <a href='https://www.linkedin.com/in/david-bounliane' target="_blank" rel="noopener noreferrer">

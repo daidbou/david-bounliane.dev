@@ -14,49 +14,49 @@ export const Skills = () => {
             <div className='grid grid-cols-2 lg:grid-cols-4 gap-8'>
                 <div className=' py-20 rounded-xl shadow-lg shadow-black/40'>
                     <div className='h-full flex flex-col justify-center items-center p-4'>
-                        <AiOutlineHtml5 size={200}/>
+                        <AiOutlineHtml5 size={150}/>
                         <h3>HTML5</h3>
                     </div>
                 </div>
                 <div className=' py-20 rounded-xl shadow-lg shadow-black/40'>
                     <div className='h-full flex flex-col justify-center items-center p-4'>
-                        <DiCss3 size={200}/>
+                        <DiCss3 size={150}/>
                         <h3>CSS</h3>
                     </div>
                 </div>
                 <div className=' py-20 rounded-xl shadow-lg shadow-black/40'>
                     <div className='h-full flex flex-col justify-center items-center p-4'>
-                        <DiJavascript size={200}/>
+                        <DiJavascript size={150}/>
                         <h3>JavaScript</h3>
                     </div>
                 </div>
                 <div className=' py-20 rounded-xl shadow-lg shadow-black/40'>
                     <div className='h-full flex flex-col justify-center items-center p-4'>
-                        <DiReact size={200} />
+                        <DiReact size={150} />
                         <h3>ReactJS</h3>
                     </div>
                 </div>
                 <div className=' py-20 rounded-xl shadow-lg shadow-black/40'>
                     <div className='h-full flex flex-col justify-center items-center p-4'>
-                        <DiNodejsSmall size={200}/>
+                        <DiNodejsSmall size={150}/>
                         <h3>Node.js</h3>
                     </div>
                 </div>
                 <div className=' py-20 rounded-xl shadow-lg shadow-black/40'>
                     <div className='h-full flex flex-col justify-center items-center p-4'>
-                        <DiDocker size={200}/>
+                        <DiDocker size={150}/>
                         <h3>Docker</h3>
                     </div>
                 </div>
                 <div className=' py-20 rounded-xl shadow-lg shadow-black/40'>
                     <div className='h-full flex flex-col justify-center items-center p-4'>
-                        <SiAdobe size={200}/>
+                        <SiAdobe size={150}/>
                         <h3>Adobe</h3>
                     </div>
                 </div>
                 <div className=' py-20 rounded-xl shadow-lg shadow-black/40'>
                     <div className='h-full flex flex-col justify-center items-center p-4'>
-                        <FaFigma size={200}/>
+                        <FaFigma size={150}/>
                         <h3>Figma</h3>
                     </div>
                 </div>
