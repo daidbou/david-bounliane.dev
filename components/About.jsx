@@ -16,7 +16,7 @@ export const About = () => {
                       A 6 months internship would be for me the opportunity to learn how to work in a team, master one or more frameworks like ReactJS, AngularJS or Laravel and especially gain experience and maturity in this domain. I am eager to learn web development.
                       <br/>
                       <br/>
-                      if you are looking for a intern in web development, feel free to contact me on Linkedin or at my email address.
+                      if you are looking for a intern in web development, feel free to contact me on Linkedin : <strong className=' text-blue-400'>linkedin.com/in/david-bounliane/</strong> or at my email address : <strong className=' text-blue-400'>david.bounliane@gmail.com</strong>.
                     </p>
 
                     

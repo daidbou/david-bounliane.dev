@@ -18,7 +18,7 @@ export const NavList = () => {
         },
         {
             name : 'contact', 
-            link : '/#Contact'
+            link : 'https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBXHfxRpMdFmzMlggTkcMGhflwlGRFbVhrJmnWqlPrlDzCXLLBgfHzJbqMWvlkPPNnqSB'
         } 
     ]
 
