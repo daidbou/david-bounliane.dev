@@ -31,7 +31,7 @@ export const Main = () => {
                                 <AiOutlineMail />
                             </div>
                         </a>
-                        <a href='https://www.linkedin.com/feed/update/urn:li:activity:6979600650976305152/' target="_blank" rel="noopener noreferrer">
+                        <a href='https://www.linkedin.com/in/david-bounliane/' target="_blank" rel="noopener noreferrer">
                             <div className='rounded-full bg-slate-600 p-3 cursor-pointer transition ease-in-out hover:scale-105 hover:shadow-sm hover:shadow-black duration-300'>
                                 <BsFillPersonLinesFill />
                             </div>
